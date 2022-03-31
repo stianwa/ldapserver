@@ -1,4 +1,4 @@
-module github.com/vjeantet/ldapserver
+module github.com/stianwa/ldapserver
 
 go 1.14
 
